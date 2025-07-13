@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Samuel Pelumi Adesanya
 
----
 Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
-
-##-------------
+---
 🌟 Passionate about building clean, scalable, and user-focused web applications.
 <!--
 **stackbypelly/stackbypelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
