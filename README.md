@@ -5,13 +5,12 @@ Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
 ---
 
 🌟 Passionate about building clean, scalable, and user-focused web applications.
-🌟 Passionate about building clean, scalable, and user-focused web applications.
 🌍 Open to remote opportunities and visa sponsorship worldwide.
 🛠️ Tech Stack:
 
-    - Backend: PHP, Laravel, MySQL, REST APIs
-    - Frontend: JavaScript, HTML5, CSS3, Bootstrap
-    - Tools: Git, GitHub, Postman, VS Code
+- Backend: PHP, Laravel, MySQL, REST APIs
+- Frontend: JavaScript, HTML5, CSS3, Bootstrap
+- Tools: Git, GitHub, Postman, VS Code
 <!--
 **stackbypelly/stackbypelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
