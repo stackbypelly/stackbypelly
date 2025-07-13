@@ -1,6 +1,7 @@
-** 👋 Hi, I'm Samuel Pelumi Adesanya **
+## 👋 Hi, I'm Samuel Pelumi Adesanya 
 
 Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
+
 ---
 
 🌟 Passionate about building clean, scalable, and user-focused web applications.
