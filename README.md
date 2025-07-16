@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Samuel Pelumi Adesanya 
 
-**Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS**
+**Fullsatck web developer | PHP (Laravel) | JavaScript | HTML & CSS**
 
 ---
 
-🌟 Passionate about building clean, scalable, and user-focused web applications.
-🌍 Open to remote opportunities and visa sponsorship worldwide.
-🛠️ Tech Stack:
-
-- **Backend:** PHP, Laravel, MySQL, REST APIs
-- **Frontend:** JavaScript, HTML5, CSS3, Bootstrap
-- **Tools:** Git, GitHub, Postman, VS Code
+🌟 Passionate about building clean, scalable, and user-focused web applications.  
+🌍 Open to remote opportunities and visa sponsorship worldwide.  
+🛠️ Tech Stack:  
+- **Backend:** PHP, Laravel, MySQL, REST APIs  
+- **Frontend:** JavaScript, HTML5, CSS3, Bootstrap  
+- **Tools:** Git, GitHub, Postman, VS Code 
 
 
 ### 📫Reach Me
