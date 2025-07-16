@@ -4,8 +4,8 @@
 
 ---
 
-🌟 Passionate about building clean, scalable, and user-focused web applications.<br/>
-🌍 Open to remote opportunities and visa sponsorship worldwide.<br>
+🌟 Passionate about building clean, scalable, and user-focused web applications.
+🌍 Open to remote opportunities and visa sponsorship worldwide.
 🛠️ Tech Stack:
 
 - **Backend:** PHP, Laravel, MySQL, REST APIs
