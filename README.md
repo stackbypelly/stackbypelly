@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Samuel Pelumi Adesanya 
+# 👋 Hi, I'm Samuel Pelumi Adesanya 
 
 Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
 
