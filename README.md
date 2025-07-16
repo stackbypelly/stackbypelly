@@ -14,7 +14,7 @@ Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
 
 
 ## 📫Reach Me
-[mailto:adesanyapelumi2017@gamil.com]{adesanyapelumi2017@gmail.com}
+[GitHub Pages](https://pages.github.com/)
 
 
 
