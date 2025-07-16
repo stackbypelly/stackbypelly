@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Pelumi Adesanya 
 
-### Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
+**Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS**
 
 ---
 
@@ -8,17 +8,17 @@
 🌍 Open to remote opportunities and visa sponsorship worldwide.<br>
 🛠️ Tech Stack:
 
-- Backend: PHP, Laravel, MySQL, REST APIs
-- Frontend: JavaScript, HTML5, CSS3, Bootstrap
-- Tools: Git, GitHub, Postman, VS Code
+- **Backend:** PHP, Laravel, MySQL, REST APIs
+- **Frontend:** JavaScript, HTML5, CSS3, Bootstrap
+- **Tools:** Git, GitHub, Postman, VS Code
 
 
-## 📫Reach Me
-[<button class:btn btn-danger>Email</button>](mailto:adesanyapelumi2017@gmail.com)
+### 📫Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-koleoso-1602051b3)
 
 
 
->"Turning ideas into clean code and real-world solutions."
+>_"Turning ideas into clean code and real-world solutions."_
 
 <!--
 **stackbypelly/stackbypelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
