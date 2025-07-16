@@ -5,7 +5,7 @@ Fullsatck web developer | PHP(Laravel) | JavaScript | HTML & CSS
 ---
 
 🌟 Passionate about building clean, scalable, and user-focused web applications.<br/>
-🌍 Open to remote opportunities and visa sponsorship worldwide.
+🌍 Open to remote opportunities and visa sponsorship worldwide.<br>
 🛠️ Tech Stack:
 
 - Backend: PHP, Laravel, MySQL, REST APIs
